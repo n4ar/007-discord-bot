@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "@liliaclient1/queue@1.0.7",
+      "/Users/napat/Downloads/004v13"
+    ]
+  ],
+  "_from": "@liliaclient1/queue@1.0.7",
+  "_id": "@liliaclient1/queue@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-A8fojvvd2r82kjptaU967PuFD05da9J4SQCzeYwX9vuK2HFbFFqs4okqnUknL7CoYU5VGptWm28lFyvwKEFGzQ==",
+  "_location": "/@liliaclient1/queue",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@liliaclient1/queue@1.0.7",
+    "name": "@liliaclient1/queue",
+    "escapedName": "@liliaclient1%2fqueue",
+    "scope": "@liliaclient1",
+    "rawSpec": "1.0.7",
+    "saveSpec": null,
+    "fetchSpec": "1.0.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@liliaclient1/queue/-/queue-1.0.7.tgz",
+  "_spec": "1.0.7",
+  "_where": "/Users/napat/Downloads/004v13",
+  "author": {
+    "name": "Masuru"
+  },
+  "dependencies": {
+    "@lavalink/encoding": "^0.1.1"
+  },
+  "description": "A liliaclient plugin that adds queue functionality",
+  "devDependencies": {
+    "@types/node": "^14.0.24",
+    "discord.js": "^12.2.0",
+    "dotenv": "^10.0.0",
+    "liliaclient": "^1.0.8",
+    "rimraf": "^3.0.2",
+    "typescript": "^3.9.7"
+  },
+  "keywords": [
+    "liliaclient",
+    "lavalink"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "@liliaclient1/queue",
+  "types": "index.d.ts",
+  "version": "1.0.7"
+}

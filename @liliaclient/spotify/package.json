@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "@liliaclient1/spotify@1.0.4",
+      "/Users/napat/Downloads/004v13"
+    ]
+  ],
+  "_from": "@liliaclient1/spotify@1.0.4",
+  "_id": "@liliaclient1/spotify@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-eZ5fKsojPps2wo6tXKuHy0ZQkz2gPB0JnISVEmsP6Wj5C7XLPvze10Gxg0WKQV0BIiyjNHmQiizyl0DW0x401g==",
+  "_location": "/@liliaclient1/spotify",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@liliaclient1/spotify@1.0.4",
+    "name": "@liliaclient1/spotify",
+    "escapedName": "@liliaclient1%2fspotify",
+    "scope": "@liliaclient1",
+    "rawSpec": "1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "1.0.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@liliaclient1/spotify/-/spotify-1.0.4.tgz",
+  "_spec": "1.0.4",
+  "_where": "/Users/napat/Downloads/004v13",
+  "author": {
+    "name": "Masuru"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "description": "A liliaclient plugin used for easy spotify integration.",
+  "devDependencies": {
+    "@liliaclient1/queue": "^1.0.3",
+    "@types/node": "^16.0.0",
+    "@types/node-fetch": "^2.5.7",
+    "dotenv": "^10.0.0",
+    "liliaclient": "^1.0.6",
+    "neocord": "^0.0.0-alpha.7",
+    "rimraf": "^3.0.2",
+    "typedoc": "^0.21.2",
+    "typedoc-plugin-markdown": "^3.4.0",
+    "typescript": "^4.1.3"
+  },
+  "keywords": [
+    "liliaclient",
+    "lavalink"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "@liliaclient1/spotify",
+  "types": "index.d.ts",
+  "version": "1.0.4"
+}

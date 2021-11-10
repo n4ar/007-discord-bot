@@ -1,0 +1,50 @@
+{
+  "_args": [
+    [
+      "@liliaclient1/types@1.0.0",
+      "/Users/napat/Downloads/004v13"
+    ]
+  ],
+  "_from": "@liliaclient1/types@1.0.0",
+  "_id": "@liliaclient1/types@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Pn0J0C12Eq2A1tDthIrYUEvnwCyYZwF26Hpw/+3zH1iO20EBnC1wqcDL5/SxIkgF0VSThBaTsV8Se4xcuj3RLQ==",
+  "_location": "/@liliaclient1/types",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@liliaclient1/types@1.0.0",
+    "name": "@liliaclient1/types",
+    "escapedName": "@liliaclient1%2ftypes",
+    "scope": "@liliaclient1",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/liliaclient"
+  ],
+  "_resolved": "https://registry.npmjs.org/@liliaclient1/types/-/types-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/Users/napat/Downloads/004v13",
+  "author": {
+    "name": "Masuru"
+  },
+  "dependencies": {},
+  "description": "Typings for lavalink.",
+  "devDependencies": {
+    "@types/node": "^15.0.3",
+    "typescript": "^4.2.4"
+  },
+  "files": [
+    "dist/**/*",
+    "package.json"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "@liliaclient1/types",
+  "private": false,
+  "types": "dist/index.d.ts",
+  "version": "1.0.0"
+}
