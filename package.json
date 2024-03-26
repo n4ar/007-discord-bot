@@ -18,7 +18,7 @@
     "chalk": "^4.1.2",
     "cli-table": "^0.3.6",
     "discord.js": "^13.1.0",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "fs": "^0.0.1-security",
     "glob": "^7.1.7",
     "liliaclient": "^1.0.10",
